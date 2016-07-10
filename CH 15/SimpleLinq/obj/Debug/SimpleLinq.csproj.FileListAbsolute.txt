@@ -1,0 +1,6 @@
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 15\SimpleLinq\bin\Debug\SimpleLinq.exe.config
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 15\SimpleLinq\bin\Debug\SimpleLinq.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 15\SimpleLinq\bin\Debug\SimpleLinq.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 15\SimpleLinq\obj\Debug\SimpleLinq.csprojResolveAssemblyReference.cache
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 15\SimpleLinq\obj\Debug\SimpleLinq.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 15\SimpleLinq\obj\Debug\SimpleLinq.pdb

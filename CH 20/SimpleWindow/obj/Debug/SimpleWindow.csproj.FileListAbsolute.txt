@@ -1,0 +1,6 @@
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 20\SimpleWindow\bin\Debug\SimpleWindow.exe.config
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 20\SimpleWindow\bin\Debug\SimpleWindow.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 20\SimpleWindow\bin\Debug\SimpleWindow.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 20\SimpleWindow\obj\Debug\SimpleWindow.csprojResolveAssemblyReference.cache
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 20\SimpleWindow\obj\Debug\SimpleWindow.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 20\SimpleWindow\obj\Debug\SimpleWindow.pdb

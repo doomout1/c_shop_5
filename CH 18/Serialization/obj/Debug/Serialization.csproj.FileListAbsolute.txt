@@ -1,0 +1,6 @@
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 18\Serialization\bin\Debug\Serialization.exe.config
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 18\Serialization\bin\Debug\Serialization.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 18\Serialization\bin\Debug\Serialization.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 18\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 18\Serialization\obj\Debug\Serialization.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 18\Serialization\obj\Debug\Serialization.pdb

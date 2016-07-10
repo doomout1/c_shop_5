@@ -1,0 +1,6 @@
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 19\UsingMonitor\bin\Debug\UsingMonitor.exe.config
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 19\UsingMonitor\bin\Debug\UsingMonitor.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 19\UsingMonitor\bin\Debug\UsingMonitor.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 19\UsingMonitor\obj\Debug\UsingMonitor.csprojResolveAssemblyReference.cache
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 19\UsingMonitor\obj\Debug\UsingMonitor.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 19\UsingMonitor\obj\Debug\UsingMonitor.pdb

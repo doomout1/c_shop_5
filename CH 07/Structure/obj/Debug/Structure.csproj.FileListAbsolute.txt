@@ -1,0 +1,6 @@
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 07\Structure\bin\Debug\Structure.exe.config
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 07\Structure\bin\Debug\Structure.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 07\Structure\bin\Debug\Structure.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 07\Structure\obj\Debug\Structure.csprojResolveAssemblyReference.cache
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 07\Structure\obj\Debug\Structure.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 07\Structure\obj\Debug\Structure.pdb

@@ -1,0 +1,6 @@
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 11\UsingGenericList\bin\Debug\UsingGenericList.exe.config
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 11\UsingGenericList\bin\Debug\UsingGenericList.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 11\UsingGenericList\bin\Debug\UsingGenericList.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 11\UsingGenericList\obj\Debug\UsingGenericList.csprojResolveAssemblyReference.cache
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 11\UsingGenericList\obj\Debug\UsingGenericList.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 11\UsingGenericList\obj\Debug\UsingGenericList.pdb

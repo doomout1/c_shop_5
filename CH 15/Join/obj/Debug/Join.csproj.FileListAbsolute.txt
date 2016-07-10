@@ -1,0 +1,6 @@
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 15\Join\bin\Debug\Join.exe.config
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 15\Join\obj\Debug\Join.csprojResolveAssemblyReference.cache
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 15\Join\bin\Debug\Join.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 15\Join\bin\Debug\Join.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 15\Join\obj\Debug\Join.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 15\Join\obj\Debug\Join.pdb

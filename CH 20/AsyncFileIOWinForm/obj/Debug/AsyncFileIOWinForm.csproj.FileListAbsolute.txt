@@ -1,0 +1,9 @@
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 20\AsyncFileIOWinForm\bin\Debug\AsyncFileIOWinForm.exe.config
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 20\AsyncFileIOWinForm\bin\Debug\AsyncFileIOWinForm.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 20\AsyncFileIOWinForm\bin\Debug\AsyncFileIOWinForm.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 20\AsyncFileIOWinForm\obj\Debug\AsyncFileIOWinForm.csprojResolveAssemblyReference.cache
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 20\AsyncFileIOWinForm\obj\Debug\AsyncFileIOWinForm.MainForm.resources
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 20\AsyncFileIOWinForm\obj\Debug\AsyncFileIOWinForm.Properties.Resources.resources
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 20\AsyncFileIOWinForm\obj\Debug\AsyncFileIOWinForm.csproj.GenerateResource.Cache
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 20\AsyncFileIOWinForm\obj\Debug\AsyncFileIOWinForm.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 20\AsyncFileIOWinForm\obj\Debug\AsyncFileIOWinForm.pdb

@@ -1,0 +1,5 @@
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 11\UsingDictionary\bin\Debug\UsingDictionary.exe.config
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 11\UsingDictionary\bin\Debug\UsingDictionary.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 11\UsingDictionary\bin\Debug\UsingDictionary.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 11\UsingDictionary\obj\Debug\UsingDictionary.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 11\UsingDictionary\obj\Debug\UsingDictionary.pdb

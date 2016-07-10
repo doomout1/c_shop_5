@@ -1,0 +1,6 @@
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 06\Calculator\bin\Debug\Calculator.exe.config
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 06\Calculator\bin\Debug\Calculator.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 06\Calculator\bin\Debug\Calculator.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 06\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 06\Calculator\obj\Debug\Calculator.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 06\Calculator\obj\Debug\Calculator.pdb

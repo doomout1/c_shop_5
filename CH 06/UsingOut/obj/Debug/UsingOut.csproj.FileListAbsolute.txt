@@ -1,0 +1,5 @@
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 06\UsingOut\bin\Debug\UsingOut.exe.config
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 06\UsingOut\bin\Debug\UsingOut.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 06\UsingOut\bin\Debug\UsingOut.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 06\UsingOut\obj\Debug\UsingOut.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 06\UsingOut\obj\Debug\UsingOut.pdb

@@ -1,0 +1,6 @@
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 13\EventTest\bin\Debug\EventTest.exe.config
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 13\EventTest\bin\Debug\EventTest.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 13\EventTest\bin\Debug\EventTest.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 13\EventTest\obj\Debug\EventTest.csprojResolveAssemblyReference.cache
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 13\EventTest\obj\Debug\EventTest.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 13\EventTest\obj\Debug\EventTest.pdb

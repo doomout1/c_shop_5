@@ -1,0 +1,7 @@
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 17\COMInterop\bin\Debug\COMInterop.exe.config
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 17\COMInterop\bin\Debug\COMInterop.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 17\COMInterop\bin\Debug\COMInterop.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 17\COMInterop\obj\Debug\COMInterop.csprojResolveAssemblyReference.cache
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 17\COMInterop\obj\Debug\COMInterop.csproj.ResolveComReference.cache
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 17\COMInterop\obj\Debug\COMInterop.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 17\COMInterop\obj\Debug\COMInterop.pdb

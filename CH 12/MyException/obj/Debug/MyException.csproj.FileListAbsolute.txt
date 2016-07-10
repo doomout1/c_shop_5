@@ -1,0 +1,6 @@
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 12\MyException\bin\Debug\MyException.exe.config
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 12\MyException\bin\Debug\MyException.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 12\MyException\bin\Debug\MyException.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 12\MyException\obj\Debug\MyException.csprojResolveAssemblyReference.cache
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 12\MyException\obj\Debug\MyException.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 12\MyException\obj\Debug\MyException.pdb

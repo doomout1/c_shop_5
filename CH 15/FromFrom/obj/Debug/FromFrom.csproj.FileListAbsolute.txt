@@ -1,0 +1,6 @@
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 15\FromFrom\bin\Debug\FromFrom.exe.config
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 15\FromFrom\bin\Debug\FromFrom.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 15\FromFrom\bin\Debug\FromFrom.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 15\FromFrom\obj\Debug\FromFrom.csprojResolveAssemblyReference.cache
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 15\FromFrom\obj\Debug\FromFrom.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 15\FromFrom\obj\Debug\FromFrom.pdb

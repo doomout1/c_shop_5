@@ -1,0 +1,6 @@
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 08\Interface\bin\Debug\Interface.exe.config
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 08\Interface\bin\Debug\Interface.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 08\Interface\bin\Debug\Interface.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 08\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 08\Interface\obj\Debug\Interface.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 08\Interface\obj\Debug\Interface.pdb

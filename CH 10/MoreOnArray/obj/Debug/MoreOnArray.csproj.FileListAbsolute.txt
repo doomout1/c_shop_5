@@ -1,0 +1,6 @@
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 10\MoreOnArray\bin\Debug\MoreOnArray.exe.config
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 10\MoreOnArray\bin\Debug\MoreOnArray.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 10\MoreOnArray\bin\Debug\MoreOnArray.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 10\MoreOnArray\obj\Debug\MoreOnArray.csprojResolveAssemblyReference.cache
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 10\MoreOnArray\obj\Debug\MoreOnArray.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 10\MoreOnArray\obj\Debug\MoreOnArray.pdb

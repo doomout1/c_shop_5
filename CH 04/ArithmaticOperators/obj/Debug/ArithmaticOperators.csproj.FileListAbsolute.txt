@@ -1,0 +1,6 @@
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 04\ArithmaticOperators\bin\Debug\ArithmaticOperators.exe.config
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 04\ArithmaticOperators\bin\Debug\ArithmaticOperators.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 04\ArithmaticOperators\bin\Debug\ArithmaticOperators.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 04\ArithmaticOperators\obj\Debug\ArithmaticOperators.csprojResolveAssemblyReference.cache
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 04\ArithmaticOperators\obj\Debug\ArithmaticOperators.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 04\ArithmaticOperators\obj\Debug\ArithmaticOperators.pdb

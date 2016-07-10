@@ -1,0 +1,6 @@
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 10\UsingList\bin\Debug\UsingList.exe.config
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 10\UsingList\bin\Debug\UsingList.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 10\UsingList\bin\Debug\UsingList.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 10\UsingList\obj\Debug\UsingList.csprojResolveAssemblyReference.cache
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 10\UsingList\obj\Debug\UsingList.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 10\UsingList\obj\Debug\UsingList.pdb

@@ -1,0 +1,6 @@
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 20\FormAndControl\bin\Debug\FormAndControl.exe.config
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 20\FormAndControl\bin\Debug\FormAndControl.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 20\FormAndControl\bin\Debug\FormAndControl.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 20\FormAndControl\obj\Debug\FormAndControl.csprojResolveAssemblyReference.cache
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 20\FormAndControl\obj\Debug\FormAndControl.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 20\FormAndControl\obj\Debug\FormAndControl.pdb

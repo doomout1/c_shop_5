@@ -1,0 +1,6 @@
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 04\ShiftOperator\bin\Debug\ShiftOperator.exe.config
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 04\ShiftOperator\bin\Debug\ShiftOperator.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 04\ShiftOperator\bin\Debug\ShiftOperator.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 04\ShiftOperator\obj\Debug\ShiftOperator.csprojResolveAssemblyReference.cache
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 04\ShiftOperator\obj\Debug\ShiftOperator.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 04\ShiftOperator\obj\Debug\ShiftOperator.pdb

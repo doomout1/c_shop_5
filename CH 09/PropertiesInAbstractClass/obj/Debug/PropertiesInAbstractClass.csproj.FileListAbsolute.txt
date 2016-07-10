@@ -1,0 +1,6 @@
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 09\PropertiesInAbstractClass\bin\Debug\PropertiesInAbstractClass.exe.config
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 09\PropertiesInAbstractClass\bin\Debug\PropertiesInAbstractClass.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 09\PropertiesInAbstractClass\bin\Debug\PropertiesInAbstractClass.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 09\PropertiesInAbstractClass\obj\Debug\PropertiesInAbstractClass.csprojResolveAssemblyReference.cache
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 09\PropertiesInAbstractClass\obj\Debug\PropertiesInAbstractClass.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 09\PropertiesInAbstractClass\obj\Debug\PropertiesInAbstractClass.pdb

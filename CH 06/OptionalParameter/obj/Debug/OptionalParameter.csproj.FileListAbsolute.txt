@@ -1,0 +1,5 @@
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 06\OptionalParameter\bin\Debug\OptionalParameter.exe.config
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 06\OptionalParameter\bin\Debug\OptionalParameter.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 06\OptionalParameter\bin\Debug\OptionalParameter.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 06\OptionalParameter\obj\Debug\OptionalParameter.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 06\OptionalParameter\obj\Debug\OptionalParameter.pdb

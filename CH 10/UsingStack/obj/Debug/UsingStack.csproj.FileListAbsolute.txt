@@ -1,0 +1,5 @@
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 10\UsingStack\bin\Debug\UsingStack.exe.config
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 10\UsingStack\bin\Debug\UsingStack.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 10\UsingStack\bin\Debug\UsingStack.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 10\UsingStack\obj\Debug\UsingStack.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 10\UsingStack\obj\Debug\UsingStack.pdb

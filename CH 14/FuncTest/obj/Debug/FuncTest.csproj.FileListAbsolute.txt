@@ -1,0 +1,6 @@
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 14\FuncTest\bin\Debug\FuncTest.exe.config
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 14\FuncTest\bin\Debug\FuncTest.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 14\FuncTest\bin\Debug\FuncTest.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 14\FuncTest\obj\Debug\FuncTest.csprojResolveAssemblyReference.cache
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 14\FuncTest\obj\Debug\FuncTest.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 14\FuncTest\obj\Debug\FuncTest.pdb

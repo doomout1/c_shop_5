@@ -1,0 +1,6 @@
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 11\CopyingArray\bin\Debug\CopyingArray.exe.config
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 11\CopyingArray\bin\Debug\CopyingArray.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 11\CopyingArray\bin\Debug\CopyingArray.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 11\CopyingArray\obj\Debug\CopyingArray.csprojResolveAssemblyReference.cache
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 11\CopyingArray\obj\Debug\CopyingArray.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 11\CopyingArray\obj\Debug\CopyingArray.pdb

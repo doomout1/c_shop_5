@@ -1,0 +1,5 @@
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 03\StringNumberConverion\bin\Debug\StringNumberConverion.exe.config
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 03\StringNumberConverion\bin\Debug\StringNumberConverion.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 03\StringNumberConverion\bin\Debug\StringNumberConverion.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 03\StringNumberConverion\obj\Debug\StringNumberConverion.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 03\StringNumberConverion\obj\Debug\StringNumberConverion.pdb

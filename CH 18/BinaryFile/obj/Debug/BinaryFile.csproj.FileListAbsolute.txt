@@ -1,0 +1,6 @@
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 18\BinaryFile\bin\Debug\BinaryFile.exe.config
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 18\BinaryFile\bin\Debug\BinaryFile.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 18\BinaryFile\bin\Debug\BinaryFile.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 18\BinaryFile\obj\Debug\BinaryFile.csprojResolveAssemblyReference.cache
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 18\BinaryFile\obj\Debug\BinaryFile.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 18\BinaryFile\obj\Debug\BinaryFile.pdb

@@ -1,0 +1,6 @@
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 18\TextFile\bin\Debug\TextFile.exe.config
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 18\TextFile\bin\Debug\TextFile.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 18\TextFile\bin\Debug\TextFile.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 18\TextFile\obj\Debug\TextFile.csprojResolveAssemblyReference.cache
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 18\TextFile\obj\Debug\TextFile.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 18\TextFile\obj\Debug\TextFile.pdb

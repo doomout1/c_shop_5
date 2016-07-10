@@ -1,0 +1,5 @@
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 08\Abstract\bin\Debug\Abstract.exe.config
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 08\Abstract\bin\Debug\Abstract.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 08\Abstract\bin\Debug\Abstract.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 08\Abstract\obj\Debug\Abstract.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 08\Abstract\obj\Debug\Abstract.pdb

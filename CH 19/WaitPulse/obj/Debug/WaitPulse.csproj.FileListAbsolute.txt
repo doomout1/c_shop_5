@@ -1,0 +1,6 @@
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 19\WaitPulse\bin\Debug\WaitPulse.exe.config
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 19\WaitPulse\bin\Debug\WaitPulse.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 19\WaitPulse\bin\Debug\WaitPulse.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 19\WaitPulse\obj\Debug\WaitPulse.csprojResolveAssemblyReference.cache
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 19\WaitPulse\obj\Debug\WaitPulse.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 19\WaitPulse\obj\Debug\WaitPulse.pdb

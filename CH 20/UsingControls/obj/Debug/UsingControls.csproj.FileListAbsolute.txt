@@ -1,0 +1,9 @@
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 20\UsingControls\bin\Debug\UsingControls.exe.config
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 20\UsingControls\obj\Debug\UsingControls.csprojResolveAssemblyReference.cache
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 20\UsingControls\obj\Debug\UsingControls.MainForm.resources
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 20\UsingControls\obj\Debug\UsingControls.Properties.Resources.resources
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 20\UsingControls\obj\Debug\UsingControls.csproj.GenerateResource.Cache
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 20\UsingControls\bin\Debug\UsingControls.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 20\UsingControls\bin\Debug\UsingControls.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 20\UsingControls\obj\Debug\UsingControls.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 20\UsingControls\obj\Debug\UsingControls.pdb

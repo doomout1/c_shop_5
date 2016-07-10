@@ -1,0 +1,6 @@
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 12\Throw\bin\Debug\Throw.exe.config
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 12\Throw\bin\Debug\Throw.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 12\Throw\bin\Debug\Throw.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 12\Throw\obj\Debug\Throw.csprojResolveAssemblyReference.cache
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 12\Throw\obj\Debug\Throw.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 12\Throw\obj\Debug\Throw.pdb

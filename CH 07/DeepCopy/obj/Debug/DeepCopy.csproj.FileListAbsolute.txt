@@ -1,0 +1,6 @@
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 07\DeepCopy\bin\Debug\DeepCopy.exe.config
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 07\DeepCopy\bin\Debug\DeepCopy.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 07\DeepCopy\bin\Debug\DeepCopy.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 07\DeepCopy\obj\Debug\DeepCopy.csprojResolveAssemblyReference.cache
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 07\DeepCopy\obj\Debug\DeepCopy.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 07\DeepCopy\obj\Debug\DeepCopy.pdb

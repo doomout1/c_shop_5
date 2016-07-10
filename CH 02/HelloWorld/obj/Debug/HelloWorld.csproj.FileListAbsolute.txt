@@ -1,0 +1,6 @@
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 02\HelloWorld\bin\Debug\HelloWorld.exe.config
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 02\HelloWorld\bin\Debug\HelloWorld.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 02\HelloWorld\bin\Debug\HelloWorld.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 02\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 02\HelloWorld\obj\Debug\HelloWorld.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 02\HelloWorld\obj\Debug\HelloWorld.pdb

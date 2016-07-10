@@ -1,0 +1,6 @@
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 18\BasicIO\bin\Debug\BasicIO.exe.config
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 18\BasicIO\bin\Debug\BasicIO.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 18\BasicIO\bin\Debug\BasicIO.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 18\BasicIO\obj\Debug\BasicIO.csprojResolveAssemblyReference.cache
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 18\BasicIO\obj\Debug\BasicIO.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 18\BasicIO\obj\Debug\BasicIO.pdb

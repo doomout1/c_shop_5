@@ -1,0 +1,6 @@
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 09\PropertiesInterface\bin\Debug\PropertiesInterface.exe.config
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 09\PropertiesInterface\bin\Debug\PropertiesInterface.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 09\PropertiesInterface\bin\Debug\PropertiesInterface.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 09\PropertiesInterface\obj\Debug\PropertiesInterface.csprojResolveAssemblyReference.cache
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 09\PropertiesInterface\obj\Debug\PropertiesInterface.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 09\PropertiesInterface\obj\Debug\PropertiesInterface.pdb

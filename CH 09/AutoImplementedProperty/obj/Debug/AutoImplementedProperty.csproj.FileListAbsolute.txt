@@ -1,0 +1,5 @@
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 09\AutoImplementedProperty\bin\Debug\AutoImplementedProperty.exe.config
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 09\AutoImplementedProperty\bin\Debug\AutoImplementedProperty.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 09\AutoImplementedProperty\bin\Debug\AutoImplementedProperty.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 09\AutoImplementedProperty\obj\Debug\AutoImplementedProperty.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 09\AutoImplementedProperty\obj\Debug\AutoImplementedProperty.pdb

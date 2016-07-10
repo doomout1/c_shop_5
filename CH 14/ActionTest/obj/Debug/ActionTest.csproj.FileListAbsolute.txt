@@ -1,0 +1,5 @@
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 14\ActionTest\bin\Debug\ActionTest.exe.config
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 14\ActionTest\bin\Debug\ActionTest.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 14\ActionTest\bin\Debug\ActionTest.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 14\ActionTest\obj\Debug\ActionTest.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 14\ActionTest\obj\Debug\ActionTest.pdb

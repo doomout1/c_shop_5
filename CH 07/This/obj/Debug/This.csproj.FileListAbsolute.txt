@@ -1,0 +1,6 @@
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 07\This\bin\Debug\This.exe.config
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 07\This\bin\Debug\This.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 07\This\bin\Debug\This.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 07\This\obj\Debug\This.csprojResolveAssemblyReference.cache
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 07\This\obj\Debug\This.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 07\This\obj\Debug\This.pdb

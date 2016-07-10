@@ -1,0 +1,5 @@
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 05\Switch\bin\Debug\Switch.exe.config
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 05\Switch\bin\Debug\Switch.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 05\Switch\bin\Debug\Switch.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 05\Switch\obj\Debug\Switch.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 05\Switch\obj\Debug\Switch.pdb

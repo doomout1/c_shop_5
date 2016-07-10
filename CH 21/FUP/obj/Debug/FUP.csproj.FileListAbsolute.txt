@@ -1,0 +1,5 @@
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 21\FUP\obj\Debug\FUP.csprojResolveAssemblyReference.cache
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 21\FUP\bin\Debug\FUP.dll
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 21\FUP\bin\Debug\FUP.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 21\FUP\obj\Debug\FUP.dll
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 21\FUP\obj\Debug\FUP.pdb

@@ -1,0 +1,6 @@
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 19\Async\bin\Debug\Async.exe.config
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 19\Async\bin\Debug\Async.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 19\Async\bin\Debug\Async.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 19\Async\obj\Debug\Async.csprojResolveAssemblyReference.cache
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 19\Async\obj\Debug\Async.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 19\Async\obj\Debug\Async.pdb

@@ -1,0 +1,6 @@
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 10\Indexer\bin\Debug\Indexer.exe.config
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 10\Indexer\bin\Debug\Indexer.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 10\Indexer\bin\Debug\Indexer.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 10\Indexer\obj\Debug\Indexer.csprojResolveAssemblyReference.cache
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 10\Indexer\obj\Debug\Indexer.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 10\Indexer\obj\Debug\Indexer.pdb

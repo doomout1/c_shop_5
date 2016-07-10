@@ -1,0 +1,8 @@
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 21\FileSender\bin\Debug\FileSender.exe.config
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 21\FileSender\obj\Debug\FileSender.csprojResolveAssemblyReference.cache
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 21\FileSender\bin\Debug\FileSender.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 21\FileSender\bin\Debug\FileSender.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 21\FileSender\bin\Debug\FUP.dll
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 21\FileSender\bin\Debug\FUP.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 21\FileSender\obj\Debug\FileSender.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 21\FileSender\obj\Debug\FileSender.pdb

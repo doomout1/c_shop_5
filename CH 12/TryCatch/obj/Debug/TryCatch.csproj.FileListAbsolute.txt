@@ -1,0 +1,6 @@
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 12\TryCatch\bin\Debug\TryCatch.exe.config
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 12\TryCatch\bin\Debug\TryCatch.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 12\TryCatch\bin\Debug\TryCatch.pdb
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 12\TryCatch\obj\Debug\TryCatch.csprojResolveAssemblyReference.cache
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 12\TryCatch\obj\Debug\TryCatch.exe
+F:\IT 실습 소스 모음\뇌자극 C# 5.0\CH 12\TryCatch\obj\Debug\TryCatch.pdb
